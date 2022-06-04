@@ -3,7 +3,7 @@
 # Device
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
 export TWRP_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/bigsaltyfishes/twrp_device_lenovo_J607F -b 12.1"
+export DT_LINK="https://github.com/bigsaltyfishes/TWRP-lenovo-J607F -b 12.1"
 
 export DEVICE="J607F"
 export OEM="lenovo"
